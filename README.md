@@ -43,6 +43,7 @@ This Power BI project provides an Online Sales Report to visualize sales perform
 - **Export Reports**:
    Export your reports and dashboards as PDFs, PowerPoint presentations, or Excel files to share with stakeholders.
 
+You can copy and paste this code into your `README.md` file. Let me know if you need any other changes!
 ## Project Structure
 
 ```bash
@@ -57,4 +58,10 @@ This Power BI project provides an Online Sales Report to visualize sales perform
 │   
 └── README.md
 
-You can copy and paste this code into your `README.md` file. Let me know if you need any other changes!
+
+
+
+
+
+
+
