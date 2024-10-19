@@ -44,24 +44,10 @@ This Power BI project provides an Online Sales Report to visualize sales perform
    Export your reports and dashboards as PDFs, PowerPoint presentations, or Excel files to share with stakeholders.
 
 You can copy and paste this code into your `README.md` file. Let me know if you need any other changes!
-## Project Structure
-
-```bash
-/Online-Sales-Report
-├── data/
-│   ├── sales_data.csv
-│   ├── product_data.csv
-│   ├── customer_data.csv
-│  
-├── reports/
-│   ├── sales_report.pbix
-│   
-└── README.md
 
 ## MIT License
 
-Copyright (c) [Year] [Your Name or Your Company]
-
+Copyright (c) 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
