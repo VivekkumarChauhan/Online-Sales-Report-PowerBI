@@ -44,7 +44,8 @@ This Power BI project provides an Online Sales Report to visualize sales perform
    Export your reports and dashboards as PDFs, PowerPoint presentations, or Excel files to share with stakeholders.
 
 You can copy and paste this code into your `README.md` file. Let me know if you need any other changes!
-
+## Project Screenshort
+![Darshboard](C:\Users\vivek\OneDrive\Pictures\Screenshots/powerbi1.png)
 ## MIT License
 
 Copyright (c) 
