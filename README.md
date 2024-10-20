@@ -45,7 +45,9 @@ This Power BI project provides an Online Sales Report to visualize sales perform
 
 You can copy and paste this code into your `README.md` file. Let me know if you need any other changes!
 ## Project Screenshort
-![Darshboard](C:\Users\vivek\OneDrive\Pictures\Screenshots/powerbi1.png)
+## Project Screenshot
+![Dashboard](https://github.com/vivek/diwali-sales-analysis/powerbi1.png)
+
 ## MIT License
 
 Copyright (c) 
