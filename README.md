@@ -45,7 +45,7 @@ This Power BI project provides an Online Sales Report to visualize sales perform
 
 You can copy and paste this code into your `README.md` file. Let me know if you need any other changes!
 ## Project Screenshot
-![Dashboard](https://github.com/VivekChauhan3/Online-Sales-Report-PowerBI/powerbi1.png)
+![Dashboard](https://github.com/VivekChauhan3/Online-Sales-Report-PowerBI/blob/main/powerbi1.png)
 
 
 ## MIT License
