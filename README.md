@@ -48,7 +48,6 @@ You can copy and paste this code into your `README.md` file. Let me know if you 
 ![Dashboard](https://github.com/VivekChauhan3/Online-Sales-Report-PowerBI/blob/main/powerbi1.png)
 
 
-## MIT License
 
 Copyright (c) 
 Permission is hereby granted, free of charge, to any person obtaining a copy
